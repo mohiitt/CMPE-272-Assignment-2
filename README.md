@@ -14,7 +14,9 @@ Through this project, I developed practical expertise in:
 
 <img width="1683" height="692" alt="Screenshot 2025-09-15 at 2 25 31 AM" src="https://github.com/user-attachments/assets/ace5ad0d-802d-4a84-a950-618bdfbed3ce" />
 
-### API requests
+---
+
+### API requests - using Postman API
 #### POST - Successfully added a new record to the DynamoDB table.
 <img width="1525" height="767" alt="Screenshot 2025-09-15 at 3 02 26 AM" src="https://github.com/user-attachments/assets/1b2e6fb3-97d8-4f5f-bf31-a070d82845cd" />
 
